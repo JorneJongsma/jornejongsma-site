@@ -1,0 +1,8 @@
+{
+  "name": "jornejongsma-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JorneJongsma/jornejongsma-site.git",
+  "author": "Jorne <jornejongsma@gmail.com>",
+  "license": "MIT"
+}
